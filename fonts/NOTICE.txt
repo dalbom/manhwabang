@@ -1,0 +1,12 @@
+The fonts in this folder are distributed under the SIL Open Font License, Version 1.1 (see OFL.txt).
+Each file is a WOFF2 conversion of the original font. Noto Serif KR is additionally reduced to
+Hangul, Latin and symbols.
+
+maruburi: © NAVER Corp. © NAVER Cultural Foundation Corp.
+notoserif: (c) 2017-2024 Adobe (http://www.adobe.com/). Noto Serif KR.
+gowunbatang: Copyright 2021 The Gowun Batang Project Authors (https://github.com/yangheeryu/Gowun-Batang)
+nanummyeongjo: Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.
+pretendard: Copyright © 2023 Kil Hyung-jin (https://github.com/orioncactus/pretendard)
+nanumgothic: Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
+nanumbarungothic: Copyright ⓒ 2013 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc.
+nanumsquareround: Copyright ⓒ 2017 NAVER Corporation. All rights reserved. Font designed by Sandoll Communications Inc.
